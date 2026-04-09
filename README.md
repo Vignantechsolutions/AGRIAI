@@ -1,59 +1,57 @@
-🌿 AGRIAI
-AI-Powered Apple Leaf & Fruit Disease Detection System
+#🌿 AGRIAI
 
-Smart Farming • Intelligent Detection • Better Crop Health
+##AI-Powered Apple Leaf & Fruit Disease Detection System
 
-📌 Project Overview
+###Smart Farming • Intelligent Detection • Better Crop Health
+
+#📌 PROJECT OVERVIEW
 
 AGRIAI is an advanced Artificial Intelligence and Computer Vision–based system designed to detect diseases in apple leaves and fruits with high accuracy.
 
 By leveraging modern Deep Learning models, the system enables early disease identification, helping farmers prevent crop loss, improve yield quality, and make data-driven agricultural decisions.
 
-This solution demonstrates how AI-powered precision agriculture can transform traditional farming into intelligent, technology-driven systems.
+This solution demonstrates how AI-powered precision agriculture transforms traditional farming into intelligent, technology-driven systems.
 
-🎬 Project Demo Video
-Watch AGRIAI in Action
+#🎬 PROJECT DEMONSTRATION
+▶️ Watch AGRIAI in Action
 
-👉 Upload your downloaded video to GitHub and paste the link here.
+After uploading your video, replace the link below:
 
-Example format:
+[▶️ Watch Demo Video](https://github.com/Vignantechsolutions/Projects_Showcase/blob/main/AGRIAI/demo-video/agriai-demo.mp4)
 
-[▶️ Watch Demo Video](https://github.com/Vignantechsolutions/Projects_Showcase/blob/main/demo-video/AgriAi.mp4)
-
-OR (Recommended — YouTube):
-
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-🔍 Key Capabilities
+#🔍 KEY CAPABILITIES
 ✔ Real-time apple leaf disease detection
 ✔ Fruit disease classification system
-✔ High-accuracy deep learning models
+✔ High-accuracy deep learning-based classification
 ✔ User-friendly web-based interface
 ✔ AI-powered crop health insights
 ✔ Smart agricultural monitoring support
-🌱 Business & Agricultural Impact
+🌱 BUSINESS & AGRICULTURAL IMPACT
 
-Early detection of plant diseases plays a critical role in modern agriculture.
+Early detection of plant diseases plays a critical role in modern agriculture and crop sustainability.
 
-AGRIAI enables farmers and researchers to:
+#AGRIAI enables farmers and researchers to:
 
 Reduce crop losses caused by delayed disease detection
-Improve crop productivity and health monitoring
+Improve productivity and crop health management
 Enable data-driven agricultural decision-making
-Support precision agriculture technologies
-Improve farming efficiency through AI insights
-🧠 Technology Highlights
+Support precision farming technologies
+Improve farming efficiency using AI insights
 
-This system integrates modern Artificial Intelligence technologies.
+#🧠 TECHNOLOGY STACK
 
-Core Technologies:
+##Core Technologies Used
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/> </p>
 
+#Technologies Included
 Python
 Deep Learning Models
 TensorFlow
 OpenCV
 Flask Web Framework
 Computer Vision Algorithms
-🎓 Client Project Implementation
+
+#🎓 CLIENT PROJECT IMPLEMENTATION
 
 Client: MCA Final Year Student
 
@@ -67,39 +65,38 @@ Location:
 Kalaburagi – 585102
 Karnataka, India
 
-This project was developed as part of an advanced academic research initiative focusing on Artificial Intelligence in Agriculture Technology.
+This project was developed as part of an advanced academic research initiative focused on Artificial Intelligence in Agriculture Technology.
 
-🏢 Developed By
-Vignan TechSolutions
+#🏢 DEVELOPED BY
+##VIGNAN TECHSOLUTIONS
 
 Vignan TechSolutions specializes in delivering industry-oriented technology solutions and academic innovation projects.
 
-Core Expertise:
+#Core Expertise
 Artificial Intelligence & Machine Learning Systems
 Computer Vision & Deep Learning Applications
-Data Science & Predictive Analytics
+Data Science & Predictive Analytics Platforms
 Full-Stack Web Applications
 Intelligent Automation Systems
 End-to-End Final Year Project Development
 
 Our mission is to empower students and organizations with real-world AI solutions and research-driven project implementations.
 
-📊 Project Domain
-
+#📊 PROJECT DOMAIN
 Agriculture Technology
 Artificial Intelligence
 Computer Vision
 Deep Learning
 Smart Farming
 
-📬 Project Development & Technical Consultation
+#📬 PROJECT DEVELOPMENT & TECHNICAL CONSULTATION
 
 For project demonstrations, academic development, or technical consultation:
 
 📧 Email:
 vignantechsolutions@gmail.com
 
-📞 Contact:
+#📞 Contact:
 Suresh — 9110478047
 Mahesh — 9148215446
 
@@ -112,15 +109,15 @@ https://www.linkedin.com/company/vignantechsolutions
 📍 Location:
 Kalaburagi, Karnataka, India
 
-🔒 Project Availability Notice
+#🔒 PROJECT AVAILABILITY NOTICE
 
-⚠️ Source code is not publicly available.
+##⚠️ Source code is not publicly available.
 
 This repository is intended for:
 
-Project demonstration
-Academic reference
-Client showcase
-Technical consultation
+Project Demonstration
+Academic Reference
+Client Showcase
+Technical Consultation
 
-For access-related queries, please contact Vignan TechSolutions directly
+For project access or development inquiries, please contact Vignan TechSolutions directly.
