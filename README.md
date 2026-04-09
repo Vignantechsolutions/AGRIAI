@@ -22,7 +22,7 @@ This solution demonstrates how **AI-powered precision agriculture** transforms t
 
 After uploading your video, replace the link below:
 
-[▶️ Watch Demo Video](https://github.com/Vignantechsolutions/Projects_Showcase/blob/main/AGRIAI/demo-video/agriai-demo.mp4)
+[▶️ Watch Demo Video](https://github.com/Vignantechsolutions/AgriAi/blob/main/AGRIAI/demo-video/AgriAi.mp4)
 
 ---
 
